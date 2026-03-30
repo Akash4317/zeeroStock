@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Industrial Grade Bearings",
+    "category": "Mechanical",
+    "price": 45.99,
+    "quantity": 500,
+    "supplier": "MetalWorks Co."
+  },
+  {
+    "id": 2,
+    "name": "Copper Wire Spools",
+    "category": "Electrical",
+    "price": 120.0,
+    "quantity": 200,
+    "supplier": "ElectroParts Ltd."
+  },
+  {
+    "id": 3,
+    "name": "Hydraulic Seals Kit",
+    "category": "Mechanical",
+    "price": 32.5,
+    "quantity": 300,
+    "supplier": "FluidTech Inc."
+  },
+  {
+    "id": 4,
+    "name": "LED Strip Lights 5m",
+    "category": "Electrical",
+    "price": 18.99,
+    "quantity": 1000,
+    "supplier": "BrightLux"
+  },
+  {
+    "id": 5,
+    "name": "Safety Helmets",
+    "category": "Safety",
+    "price": 14.75,
+    "quantity": 800,
+    "supplier": "SafeGuard Supplies"
+  },
+  {
+    "id": 6,
+    "name": "Stainless Steel Bolts M10",
+    "category": "Fasteners",
+    "price": 0.85,
+    "quantity": 10000,
+    "supplier": "MetalWorks Co."
+  },
+  {
+    "id": 7,
+    "name": "Circuit Breakers 20A",
+    "category": "Electrical",
+    "price": 55.0,
+    "quantity": 150,
+    "supplier": "ElectroParts Ltd."
+  },
+  {
+    "id": 8,
+    "name": "Latex Gloves Box",
+    "category": "Safety",
+    "price": 22.0,
+    "quantity": 600,
+    "supplier": "SafeGuard Supplies"
+  },
+  {
+    "id": 9,
+    "name": "Pneumatic Hose 10m",
+    "category": "Mechanical",
+    "price": 38.0,
+    "quantity": 250,
+    "supplier": "FluidTech Inc."
+  },
+  {
+    "id": 10,
+    "name": "Hex Nuts M8",
+    "category": "Fasteners",
+    "price": 0.5,
+    "quantity": 15000,
+    "supplier": "MetalWorks Co."
+  },
+  {
+    "id": 11,
+    "name": "Power Extension Cord 5m",
+    "category": "Electrical",
+    "price": 12.99,
+    "quantity": 400,
+    "supplier": "BrightLux"
+  },
+  {
+    "id": 12,
+    "name": "High-Vis Vests",
+    "category": "Safety",
+    "price": 9.5,
+    "quantity": 700,
+    "supplier": "SafeGuard Supplies"
+  },
+  {
+    "id": 13,
+    "name": "Gear Reducers 1:10",
+    "category": "Mechanical",
+    "price": 210.0,
+    "quantity": 80,
+    "supplier": "FluidTech Inc."
+  },
+  {
+    "id": 14,
+    "name": "Cable Ties Pack",
+    "category": "Fasteners",
+    "price": 5.25,
+    "quantity": 5000,
+    "supplier": "ElectroParts Ltd."
+  },
+  {
+    "id": 15,
+    "name": "Industrial Fan 18-inch",
+    "category": "Mechanical",
+    "price": 175.0,
+    "quantity": 60,
+    "supplier": "BrightLux"
+  }
+]
