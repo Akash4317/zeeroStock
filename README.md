@@ -226,16 +226,3 @@ MongoDB Aggregation Pipeline used:
 
 ---
 
-## Edge Cases Handled
-
-| Case | Handling |
-|------|----------|
-| Empty search query | Returns all results |
-| Invalid price (NaN) | Returns 400 with error message |
-| minPrice > maxPrice | Returns 400 with error message |
-| No search matches | Returns empty array + "No results found" UI |
-| Invalid supplier_id format | Returns 400 "Invalid supplier_id format" |
-| Non-existent supplier_id | Returns 400 "Supplier not found" |
-| Quantity < 0 | Returns 400 "quantity must be >= 0" |
-| Price <= 0 | Returns 400 "price must be > 0" |
-| MongoDB not running | Backend still serves Assignment A (search only mode) |
